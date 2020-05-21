@@ -1,0 +1,81 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "afif",
+          "alamat": "samen",
+          "umur": 24,
+          "nohp": "0857412312312"
+        },
+        {
+          "id": 2,
+          "nama": "bagus",
+          "alamat": "mantup",
+          "umur": 22,
+          "nohp": "0838412312312"
+        },
+        {
+          "id": 3,
+          "nama": "hendro",
+          "alamat": "samen",
+          "umur": 23,
+          "nohp": "08574195842312"
+        },
+        {
+          "id": 4,
+          "nama": "hadi",
+          "alamat": "ngasinan",
+          "umur": 21,
+          "nohp": "08574195842312"
+        },
+        {
+          "id": 5,
+          "nama": "esti",
+          "alamat": "mantup",
+          "umur": 24,
+          "nohp": "08574195842312"
+        },
+        {
+          "id": 6,
+          "nama": "yayan",
+          "alamat": "simo",
+          "umur": 21,
+          "nohp": "08574295842312"
+        },
+        {
+          "id": 7,
+          "nama": "raisa",
+          "alamat": "karanglo",
+          "umur": 23,
+          "nohp": "08574195842312"
+        },
+        {
+          "id": 8,
+          "nama": "gatra",
+          "alamat": "simo",
+          "umur": 23,
+          "nohp": "08574195842312"
+        },
+        {
+          "id": 9,
+          "nama": "bambang",
+          "alamat": "mantup",
+          "umur": 23,
+          "nohp": "08574195842312"
+        },
+        {
+          "id": 10,
+          "nama": "Budi",
+          "alamat": "samen",
+          "umur": 27,
+          "nohp": "08574195842312"
+        },
+        {
+          "id": 11,
+          "nama": "dedi",
+          "alamat": "samen",
+          "umur": 25,
+          "nohp": "08574195842312"
+        }
+      ]
+}
